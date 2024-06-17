@@ -11,7 +11,7 @@
 🔗 Apart from that, we own other repositories that can be interesting for you:
 
 - 📈 [SMART Ecosystems Research group](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
-- ✨ [Cátedra SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
+- ✨ [Chair SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
 - 🌳 SIMANFOR is a tool developed for our group. It is a Decision Support System for the Simulation of Sustainable Forest Management Alternatives available at his [website](https://www.simanfor.es/), which support information is available at the [simanfor GitHub](https://github.com/simanfor)
 
 ---
